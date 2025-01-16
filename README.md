@@ -13,3 +13,6 @@ This repository to meant to provide some basic files for experimenting with Jupy
 5. Stage and commit the changes you have made
 
 6. Push your changes back to GitHub - verify that the changes are represented in `jupyter-demo.ipynb` on GitHub.
+
+I added this line 
+
